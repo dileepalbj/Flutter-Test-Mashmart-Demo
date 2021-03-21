@@ -1,4 +1,4 @@
-# mashmart
+# Mashmart (Demo Version)
 
 Shopping mart solution
 
@@ -15,7 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.!
 
-# Screenshot
-![mashmart](https://user-images.githubusercontent.com/80202913/111918803-e1121a00-8aac-11eb-8ff6-b0ca166a89e7.png)
+## Screenshot
+![mashmart](https://user-images.githubusercontent.com/80202913/111918946-76ada980-8aad-11eb-9dc5-0af8f5686927.png)
+
+Developed by Dileepa LBJ (dlbjapps)
 
 
