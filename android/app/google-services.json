@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283925609764",
+    "project_id": "mashmart-58b93",
+    "storage_bucket": "mashmart-58b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283925609764:android:be7ecc3ef7fe6f2e6887b1",
+        "android_client_info": {
+          "package_name": "com.dlbjapps.mashmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283925609764-9bqk0q7va4n5bs73gi5iupokqpt0rojm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dlbjapps.mashmart",
+            "certificate_hash": "9497fe7a8f695c9c1d6d7e35378fcc84cec45337"
+          }
+        },
+        {
+          "client_id": "283925609764-sflj9ug8flnjg0f2cnmlt4e6rspvnjf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJyjn-GKKfzhIJlBEW67i5KyvD8hx2t7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283925609764-sflj9ug8flnjg0f2cnmlt4e6rspvnjf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
