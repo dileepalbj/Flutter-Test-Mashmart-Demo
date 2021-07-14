@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.!
 ## Screenshot
 ![mashmart](https://user-images.githubusercontent.com/80202913/111918946-76ada980-8aad-11eb-9dc5-0af8f5686927.png)
 
-Developed by Dileepa LBJ (dlbjapps)
+Developed by Dileepa LBJ (dileepalbj)
 
 
